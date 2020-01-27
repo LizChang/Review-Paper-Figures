@@ -1,0 +1,19 @@
+Tissue,flag,count
+Cerebrospinal fluid,Host-DNA depletion,4
+Cerebrospinal fluid,Microbial enrichment,0
+Cerebrospinal fluid,Neither,4
+Blood,Host-DNA depletion,0
+Blood,Microbial enrichment,1
+Blood,Neither,2
+Sputum,Host-DNA depletion,2
+Sputum,Microbial enrichment,0
+Sputum,Neither,1
+BAL or ETAs,Host-DNA depletion,2
+BAL or ETAs,Microbial enrichment,2
+BAL or ETAs,Neither,0
+Aortic valve,Host-DNA depletion,1
+Aortic valve,Microbial enrichment,1
+Aortic valve,Neither,0
+Feces,Host-DNA depletion,0
+Feces,Microbial enrichment,0
+Feces,Neither,2
