@@ -1,0 +1,16 @@
+Microbial DNA isolation methods,flag,count
+Host-DNA depletion,CSF,4
+Host-DNA depletion,Blood,0
+Host-DNA depletion,Sputum/BAL/ETAs,4
+Host-DNA depletion,Aortic valve,1
+Host-DNA depletion,Feces,0
+Microbial enrichment,CSF,0
+Microbial enrichment,Blood,1
+Microbial enrichment,Sputum/BAL/ETAs,2
+Microbial enrichment,Aortic valve,1
+Microbial enrichment,Feces,0
+Neither,CSF,4
+Neither,Blood,2
+Neither,Sputum/BAL/ETAs,1
+Neither,Aortic valve,0
+Neither,Feces,2
