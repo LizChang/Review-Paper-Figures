@@ -28,3 +28,4 @@
 2019,No,No,MinION nanopore,0.5,Blood ,Capnocytophaga canimorsus septic shock,Yes,1,"Minimap2, Japsa, One Codex online portal",Fresh
 2018,No,No,BGISEQ-500,?,Lung biopsy tissues,Pulmonary infections,Yes,20,BWA,Frozen
 2017,No,Yes,Illumina HiSeq 2500,0.54,Sonicate fluid,Prosthetic Joint Infection,Yes,1,"BioBloom, LMAT",Frozen
+2020,Yes,No,Illumina MiSeq,?,Cerebrospinal fluid,Meningoencephalitis,Yes,68,"BLAST, DIAMOND",Frozen
