@@ -1,8 +1,8 @@
-Bioinformatics tools,count
-BLAST,10
-MetaPhlAn2,7
-BWA,6
-Kraken,6
-Bowtie2,6
-Minimap2,4
-CLARK,3
+tools,Count,percent
+BLAST,10,0.238
+MetaPhlAn2,7,0.167
+BWA,6,0.143
+Kraken,6,0.143
+Bowtie2,6,0.143
+Minimap2,4,0.0952
+CLARK,3,0.0714
